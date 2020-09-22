@@ -1,0 +1,9 @@
+[MAIN GUI_OFICIAL] Este programa solo funciona en linux, por la libreria signal. 
+[MAIN GUI_PREVIO] Este programa tiene el timer anterior. 
+
+A continuación, estos son las referencias principales tomadas para realizar este programa:
+
+johan godinho. (2018, 17 septiembre). How to create a graphical form in python using Tkinter and save data to a text file [Archivo de vídeo]. Recuperado de https://www.youtube.com/watch?v=xH4JOEJ5Uc0
+Magic Kode. (2020, 27 mayo). Hace un Keylogger con screenshots con Python en 14 minutos [Archivo de vídeo]. Recuperado de https://www.youtube.com/watch?v=g1NIeSbZK4M
+Manuel J. Dávila. (2014, 30 septiembre). Tutorial de Python parte 24 - Enviar email con archivo adjunto [Archivo de vídeo]. Recuperado de https://www.youtube.com/watch?v=RUbTKA47AoI&t=208s
+Cursos y asesorías de programación. (2019, 12 diciembre). Envía un correo en solo 16 lineas! Python 3 - con archivo adjunto. [Archivo de vídeo]. Recuperado de https://www.youtube.com/watch?v=W0dsYcSELzM
